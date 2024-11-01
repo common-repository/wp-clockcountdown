@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?><?xml-stylesheet type='text/css' href='text.css'?><menu  scaleSize = '1'
+			ContainerX= '80'
+			ContainerY = '0'
+			numberMargin = '0'
+			reflection = 'true'	
+			reflectionAlpha = '60' 
+			reflectionDistance = '0' 
+			reflectionRatio = '250'
+			imageBackground = 'true'
+			textUnder = 'true'
+			dateShown = 'true'><countdown>
+					<daysText>Days</daysText>
+					<monthsText>Months</monthsText>
+					<hoursText>Hours</hoursText>
+					<minutesText>Minutes</minutesText>
+					<secondsText>Seconds</secondsText>
+				</countdown></menu>
